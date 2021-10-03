@@ -2,7 +2,7 @@
   "name": "karavan",
   "publisher": "mgubaidullin",
   "displayName": "Karavan",
-  "icon": "icons/icon.svg",
+  "icon": "icons/icon.png",
   "description": "Integration Designer for Apache Camel",
   "version": "0.0.1",
   "license": "Apache-2.0",
@@ -44,8 +44,8 @@
         "command": "karavan.open",
         "title": "Karavan: Open in Designer",
         "icon": {
-          "light": "./icons/icon.svg",
-          "dark": "./icons/icon.svg"
+          "light": "./icons/icon.png",
+          "dark": "./icons/icon.png"
         }
       }
     ],
